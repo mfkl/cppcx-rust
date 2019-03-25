@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Martin\source\repos\App2\x64\Release\App2\App2_1.0.3.0_x64.appx
+SymbolPackage=C:\Users\Martin\source\repos\App2\AppPackages\App2\App2_1.0.3.0_Test\App2_1.0.3.0_x64.appxsym
